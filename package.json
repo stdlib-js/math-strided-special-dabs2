@@ -1,0 +1,39 @@
+{
+  "name": "@stdlib/math-strided-special-dabs2",
+  "version": "0.0.0",
+  "description": "Compute the squared absolute value for each element in a double-precision floating-point strided array.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-strided-special-dabs2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "absolute",
+    "value",
+    "abs2",
+    "square",
+    "squared",
+    "magnitude",
+    "vector",
+    "array",
+    "strided",
+    "ndarray",
+    "double",
+    "float64",
+    "float64array",
+    "element-wise"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
