@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dabs2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dabs2@deno/mod.js';
+import dabs2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dabs2@v0.2.0-deno/mod.js';
 ```
 
 #### dabs2( N, x, strideX, y, strideY )
@@ -162,7 +162,7 @@ dabs2.ndarray( N, x, 2, 1, y, -1, y.length-1 );
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
-import dabs2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dabs2@deno/mod.js';
+import dabs2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dabs2@v0.2.0-deno/mod.js';
 
 var x = new Float64Array( 10 );
 var y = new Float64Array( 10 );
